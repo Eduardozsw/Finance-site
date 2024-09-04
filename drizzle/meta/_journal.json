@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1725156638865,
+      "tag": "0000_outgoing_skrulls",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1725163364252,
+      "tag": "0001_large_medusa",
+      "breakpoints": true
+    }
+  ]
+}
